@@ -15,17 +15,12 @@ API RESTful para gerenciamento de cardápios por nutricionistas e visualização
 ### Endpoint
 - [Cadastrar Nutricionista](#cadastrar-nutricionista)
 - [Apagar Nutricionista](#apagar-nutricionista)
-- [Atualizar Nutricionista](#atualizar-nutricionista)
-- [Cadastrar Usuário](#cadastrar-usuário)
-- [Detalhes do Usuário](#detalhes-do-usuário)
-- [Apagar Usuário](#apagar-usuário)
-- [Atualizar Usuário](#atualizar-usuário)
-- [Listar Todos os Cardápios](#listar-todos-os-cardápios)
 - [Cadastrar Cardápio](#cadastrar-cardápio)
-- [Detalhes do Cardápio](#detalhes-do-cardápio)
 - [Apagar Cardápio](#apagar-cardápio)
-- [Atualizar Cardápio](#atualizar-cardápio)
+- [Cadastrar Usuário](#cadastrar-usuário)
+- [Listar Todos os Cardápios](#listar-todos-os-cardápios)
 
+  
 ### Listar Todos os Nutricionistas
 
 `GET` /nutricionistas
