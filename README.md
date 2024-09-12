@@ -13,12 +13,9 @@ API RESTful para gerenciamento de cardápios por nutricionistas e visualização
 ## Documentação da API
 
 ### Endpoint
-- [Listar Todos os Nutricionistas](#listar-todos-os-nutricionistas)
 - [Cadastrar Nutricionista](#cadastrar-nutricionista)
-- [Detalhes do Nutricionista](#detalhes-do-nutricionista)
 - [Apagar Nutricionista](#apagar-nutricionista)
 - [Atualizar Nutricionista](#atualizar-nutricionista)
-- [Listar Todos os Usuários](#listar-todos-os-usuários)
 - [Cadastrar Usuário](#cadastrar-usuário)
 - [Detalhes do Usuário](#detalhes-do-usuário)
 - [Apagar Usuário](#apagar-usuário)
