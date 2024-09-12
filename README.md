@@ -1,6 +1,3 @@
-
-
-```markdown
 # Nutricionista Cardápio API
 
 API RESTful para gerenciamento de cardápios por nutricionistas e visualização por usuários. Desenvolvida com Spring Boot, Spring Data JPA, Flyway e JWT.
